@@ -1,4 +1,4 @@
 # data_analysis_portfolio
 
-
-Charts_Graphs_Remake/01_CNBC_Chart_Of_The_Day/disney_little_mermaid_box_office.ipynb
+[
+Charts_Graphs_Remake/01_CNBC_Chart_Of_The_Day/disney_little_mermaid_box_office.ipynb](https://github.com/VuHuynhT/data_analysis_projects/blob/5b1bd09f1f2418423e856658087b5b784be2fb83/Charts_Graphs_Remake/01_CNBC_Chart_Of_The_Day/disney_little_mermaid_box_office.ipynb)https://github.com/VuHuynhT/data_analysis_projects/blob/5b1bd09f1f2418423e856658087b5b784be2fb83/Charts_Graphs_Remake/01_CNBC_Chart_Of_The_Day/disney_little_mermaid_box_office.ipynb
